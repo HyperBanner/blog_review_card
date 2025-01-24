@@ -63,6 +63,11 @@ body {
   font-weight: 800;
 }
 
+.header:hover {
+  color: hsl(47, 88%, 63%);
+  cursor: pointer;
+}
+
 .paragraph {
   font-size: 16px;
   color: hsl(0, 0%, 42%);
